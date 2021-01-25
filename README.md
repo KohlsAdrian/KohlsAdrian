@@ -1,8 +1,8 @@
 ### Hi there 👋
 <center>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&theme=radical&layout=compact"/>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KohlsAdrian"/>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=KohlsAdrian&theme=radical&show_icons=true"/>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KohlsAdrian&layout=compact"/>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=KohlsAdrian&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </center>  
 
 - 🔭 I’m currently working on [Flutter, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
