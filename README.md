@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Flutter, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
 - 🌱 I’m currently learning [C# and Microst XNA Framework]
-- 👯 I’m looking to collaborate on [Terraria Plugin for TShock MOD - MMORPG Plugin]
+- 👯 I’m looking to collaborate on [Terraria Dart Wrapper Plugin for TShock MOD - tshock_server_rest]
 - 🤔 I’m looking for help with [None]
 - 💬 Ask me about [Mobile Development]
 - 📫 How to reach me: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
