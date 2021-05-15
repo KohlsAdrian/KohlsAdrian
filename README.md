@@ -1,15 +1,9 @@
 ### Sup' Comrade 👋
 
 <table>
-        <tr>
-                <td align="center">
-                        <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png?theme=dark" width="312px" height="87px" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-                        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="312px">
-                </td>
-                <td align="center">
-                        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KohlsAdrian" width="400px">
-                </td>
-        </tr>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KohlsAdrian" width="400px">
+        <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png?theme=dark" width="208px" height="58px" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </table>
 
 - 🔭 I’m currently working on [Flutter, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
