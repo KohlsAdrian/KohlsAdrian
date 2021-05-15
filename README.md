@@ -3,6 +3,7 @@
 <table>
         <tr>
                 <td align="center">
+                        <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png" width="208" height="58" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
                         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
                 </td>
                 <td align="center">
