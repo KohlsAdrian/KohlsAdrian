@@ -6,6 +6,8 @@
         <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png?theme=dark" width="208px" height="58px" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </table>
 
+- <a href="https://discord.gg/FEPvqwn2b9"><img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img></a>[Join my discord server for gaming and development ](https://discord.gg/FEPvqwn2b9)
+
 - 🔭 I’m currently working on [Flutter, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
 - 🌱 I’m currently learning [GoLang, Microst XNA Framework]
 - 👯 I’m looking to collaborate on [Terraria Dart Wrapper Plugin for TShock MOD - tshock_server_rest]
