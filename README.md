@@ -1,10 +1,12 @@
 ### Sup' Comrade 👋
 
-<table>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KohlsAdrian" width="400px">
-        <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png?theme=dark" width="208px" height="58px" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</table>
+<details> <summary> Coding stats </summary>
+        <table>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
+                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KohlsAdrian" width="400px">
+                <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png?theme=dark" width="208px" height="58px" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+        </table>
+</details>
 
 - <a href="https://discord.gg/FEPvqwn2b9"><img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img></a>[Join my discord server for gaming and development ](https://discord.gg/FEPvqwn2b9)
 
