@@ -18,6 +18,6 @@
 - ⚡ Fun fact: I can whistle anything 🗣
 - 🤖 I'm a developer since 2009 and a mobile developer since 2014
 - ❤️ I love contributing on open source projects
-- 🖱 I love Call of Duty since 2007 and play it every day
+- 🖱 I love Gaming
 - ❎ I love both Android and iOS development
-- 💕 I love Android freedom and open development
+- 💕 I love Android freedom and open source development
