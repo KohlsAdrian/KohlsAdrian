@@ -10,7 +10,7 @@
 
 - Wanna talk? Reach me out on Discord (647#3772)<img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img>
 
-- <img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img>[Join my discord server for gaming and development](https://discord.gg/FEPvqwn2b9)
+
 
 - 🔭 I’m currently working on [Flutter, Flutter2, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
 - 🌱 I’m currently learning [GoLang]
