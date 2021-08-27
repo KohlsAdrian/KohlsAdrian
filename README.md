@@ -28,8 +28,9 @@
 
 🐦 I do Flutter on VSCode
 
-### Setup:
-```
+
+<details> <summary> Setup: </summary>
+        
        MacBook Pro 2020: 
                 (1TB/16GB) - Core i5 - Latest Stable OS
                 
@@ -44,10 +45,11 @@
                 
        ASUS 24":
                 144Hz - HDMI - (1920x1080)
-```
+        
+</details>
 
-### Environment:
-```
+<details> <summary> Environment: </summary>
+        
        VSCode: 
                 Latest Stable
                 
@@ -55,7 +57,8 @@
                 (Swift/Objective-C) Latest Stable
                 
        Android Studio:
-                Latest Version (Kotlin latest version)
+                Latest Stable
+                Kotlin Latest Stable
                 
        Flutter: 
                 1.22.6, 
@@ -71,4 +74,5 @@
                 
        Cocoapods: 
                 Latest Stable
-```
+        
+</details>
