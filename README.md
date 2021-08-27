@@ -18,8 +18,57 @@
 - 📫 How to reach me: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
 - 😄 Pronouns: Kohls, Six
 - ⚡ Fun fact: I can whistle anything 🗣
-- 🤖 I'm a developer since 2009 and a mobile developer since 2014
+- 🤖 I'm a developer since 2009
+- 📲 I'm a Mobile developer since 2014 (Android/2014 - iOS/2016)
 - ❤️ I love contributing on open source projects
-- 🖱 I love Gaming
+- 🖱/🎮 I love Gaming
 - ❎ I love both Android and iOS development
 - 💕 I love Android freedom and open source development
+- 📺 I love to watch popular Action/Comedy/Romance/Movie Animes
+
+🐦 I do Flutter on VSCode
+
+### Setup:
+```
+       MacBook Pro 2020: 
+                (1TB/16GB) - Core i5 - Latest Stable OS
+                
+       iPhone 6s:
+                (16GB/2GB) - Latest Stable OS
+                
+       iPad Pro 2021: 
+                120Hz - (128GB/8GB) - M1 - Latest Stable OS
+                
+       Samsung 32":
+                60Hz - HDMI - (1920x1080)
+                
+       ASUS 24":
+                144Hz - HDMI - (1920x1080)
+```
+
+### Environment:
+```
+       VSCode: 
+                Latest Stable
+                
+       XCode:
+                (Swift/Objective-C) Latest Stable
+                
+       Android Studio:
+                Latest Version (Kotlin latest version)
+                
+       Flutter: 
+                1.22.6, 
+                Latest Stable, 
+                Latest Master 
+                terminal: flutter, flutter2, flutter_master
+                
+       Dart: 
+                Latest Stable
+                
+       Homebrew:
+                Latest Stable
+                
+       Cocoapods: 
+                Latest Stable
+```
