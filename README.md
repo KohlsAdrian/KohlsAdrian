@@ -10,25 +10,6 @@
 
 - <img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img> Wanna talk? Reach me out on Discord (647#3772)
 
-
-
-- 🔭 I’m currently working on [Flutter, Flutter2, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
-- 🌱 I’m currently learning [GoLang]
-- 💬 Ask me about [Mobile Development]
-- 📫 How to reach me: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
-- 😄 Pronouns: Kohls, Six
-- ⚡ Fun fact: I can whistle anything 🗣
-- 🤖 I'm a developer since 2009
-- 📲 I'm a Mobile developer since 2014 (Android/2014 - iOS/2016)
-- ❤️ I love contributing on open source projects
-- 🖱/🎮 I love Gaming
-- ❎ I love both Android and iOS development
-- 💕 I love Android freedom and open source development
-- 📺 I love to watch popular Action/Comedy/Romance/Movie Animes
-
-🐦 I do Flutter on VSCode
-
-
 <details> <summary> Setup: </summary>
         
        MacBook Pro 2020: 
@@ -76,3 +57,19 @@
                 Latest Stable
         
 </details>
+
+- 🔭 I’m currently working on [Flutter, Flutter2, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
+- 🌱 I’m currently learning [GoLang]
+- 💬 Ask me about [Mobile Development]
+- 📫 How to reach me: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
+- 😄 Pronouns: Kohls, Six
+- ⚡ Fun fact: I can whistle anything 🗣
+- 🤖 I'm a developer since 2009
+- 📲 I'm a Mobile developer since 2014 (Android/2014 - iOS/2016)
+- ❤️ I love contributing on open source projects
+- 🖱/🎮 I love Gaming
+- ❎ I love both Android and iOS development
+- 💕 I love Android freedom and open source development
+- 📺 I love to watch popular Action/Comedy/Romance/Movie Animes
+
+🐦 I do Flutter on VSCode
