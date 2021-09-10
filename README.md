@@ -1,9 +1,6 @@
 ### Sup' Comrade 👋
 
 <details> <summary> Coding stats </summary>
-        <table>
-                <a href="https://stackoverflow.com/users/3182210/kohls"><img src="https://stackoverflow.com/users/flair/3182210.png?theme=dark" width="208px" height="58px" alt="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kohls at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-        </table>
         <table> 
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
         </table>
