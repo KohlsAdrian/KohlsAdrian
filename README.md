@@ -6,7 +6,7 @@
         </table>
 </details>
                 
-- <img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img> Wanna talk? Reach me out on Discord (647#0647)
+- <img src="https://raw.githubusercontent.com/Iku/discordicons/master/lightblue-app.ico" width="24px" height="24px"></img> Wanna talk? Reach me out on Discord https://discord.gg/jaKKhn3RFf
 
 <details> <summary> Setup: </summary>
         
