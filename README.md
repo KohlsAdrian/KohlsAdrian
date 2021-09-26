@@ -21,9 +21,6 @@
                 
        Samsung 32":
                 60Hz - HDMI - (1920x1080)
-                
-       ASUS 24":
-                144Hz - HDMI - (1920x1080)
         
 </details>
 
