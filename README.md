@@ -39,7 +39,7 @@
        Flutter: 
                 Latest Stable, 
                 Latest Master 
-                terminal: flutter, flutter2, flutter_master
+                terminal: flutter, flutter_master
                 
        Dart: 
                 Latest Stable
