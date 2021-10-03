@@ -61,10 +61,10 @@ LinkedIn: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github
 Pub.dev: <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
 
  
-- 🔭 I’m currently working on [Flutter, Flutter2, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
-- 🌱 I’m currently learning [GoLang]
+- 🔭 I’m currently working on [Flutter2, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
+- 🌱 I’m currently learning [GoLang, NodeJS]
 - 💬 Ask me about [Mobile Development]
-- 😄 Pronouns: Kohls, Six
+- 😄 Pronouns: Kohls, Six or 647
 - ⚡ Fun fact: I can whistle anything 🗣
 - 🤖 I'm a developer since 2009
 - 📲 I'm a Mobile developer since 2014 (Android/2014 - iOS/2016)
