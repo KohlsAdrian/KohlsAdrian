@@ -7,20 +7,30 @@
 </details>
 
 <details> <summary> Setup: </summary>
-        
-       MacBook Pro 2020: 
+
+        MacBook Pro 2020: 
                 (1TB/16GB) - Core i5 - Latest Stable OS
-                
-       iPhone 6s:
+
+        iPhone 6s:
                 (16GB/2GB) - Latest Stable OS
-                
-       iPad Pro 2021: 
+
+        iPad Pro 2021: 
                 120Hz - (128GB/8GB) - M1 - Latest Stable OS
-                
-       Samsung 32":
+
+        Samsung 32":
                 60Hz - HDMI - (1920x1080)
-       ASUS 24":
+        
+        ASUS 24":
                 144hz - HDMI - (1920x1080)
+        
+        Mouse:
+                HyperX - PULSEFIRE DART
+        
+        Keyboard:
+                Apple Magic Keyboard 2 (Phisycal: Spanish Layout/Digital: U.S. International - PC)
+        
+        Headphones:     
+                SONY - WH 1000XM4
         
 </details>
 
@@ -33,12 +43,12 @@
                 (Swift/Objective-C) Latest Stable
                 
        Android Studio:
-                Latest Stable
+                Latest Stable,
                 Kotlin Latest Stable
                 
        Flutter: 
                 Latest Stable, 
-                Latest Master 
+                Latest Master, 
                 terminal: flutter, flutter_master
                 
        Dart: 
