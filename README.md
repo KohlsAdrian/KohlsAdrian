@@ -64,8 +64,6 @@
 
 - 📫 How to reach me: 
 
-Wanna talk? Reach me out on Discord https://discord.gg/jaKKhn3RFf
-
 LinkedIn: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> 
 
 Pub.dev: <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
