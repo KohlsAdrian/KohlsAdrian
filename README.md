@@ -20,8 +20,8 @@ K On!! Yui Solo (B)
         iPad Pro 2021: 
                 120Hz - (128GB/8GB) - M1 - Latest Stable OS
 
-        Samsung 32":
-                60Hz - HDMI - (1920x1080)
+        Samsung 34":
+                165hz - DisplayPort - (3440x1440)
         
         ASUS 24":
                 144hz - HDMI - (1920x1080)
