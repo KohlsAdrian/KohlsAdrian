@@ -33,7 +33,7 @@ K On!! Yui Solo (B)
                 HyperX - PULSEFIRE DART
         
         Keyboard:
-                Apple Magic Keyboard 2 (Phisycal: Spanish Layout/Digital: U.S. International - PC)
+                Apple Magic Keyboard 2 (Physical: Spanish Layout/Digital: U.S. International - PC)
         
         Headphones:     
                 SONY - WH 1000XM4
