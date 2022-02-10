@@ -14,8 +14,11 @@ K On!! Yui Solo (B)
         MacBook Pro 2020: 
                 (1TB/16GB) - Core i5 - Latest Stable OS
 
-        iPhone 6s:
-                (16GB/2GB) - Latest Stable OS
+        iPhone 13:
+                (128GB) - Latest Stable OS
+        
+        Xiaomi Redmi 10:
+                (128GB) Latest Stable OS
 
         iPad Pro 2021: 
                 120Hz - (128GB/8GB) - M1 - Latest Stable OS
