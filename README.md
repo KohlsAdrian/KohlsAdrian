@@ -1,5 +1,7 @@
 ### Sup' Comrade 👋
 
+[![K On!! Yui Solo (B)](https://img.youtube.com/vi/qJ3x0JOkFhk/0.jpg)](https://www.youtube.com/watch?v=qJ3x0JOkFhk)
+
 <details> <summary> Coding stats </summary>
         <table> 
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
