@@ -1,6 +1,7 @@
 ### Sup' Comrade 👋
 
-[![K On!! Yui Solo (B)](https://img.youtube.com/vi/qJ3x0JOkFhk/0.jpg)](https://www.youtube.com/watch?v=qJ3x0JOkFhk)
+[![](https://img.youtube.com/vi/qJ3x0JOkFhk/0.jpg)](https://www.youtube.com/watch?v=qJ3x0JOkFhk)
+K On!! Yui Solo (B)
 
 <details> <summary> Coding stats </summary>
         <table> 
