@@ -10,7 +10,9 @@ K On!! Yui Solo (B)
 </details>
 
 <details> <summary> Setup: </summary>
-
+        Mac Mini 2020: 
+                (512GB/16GB) - Apple M1 - Latest Stable OS
+        
         MacBook Pro 2020: 
                 (1TB/16GB) - Core i5 - Latest Stable OS
 
@@ -68,12 +70,10 @@ K On!! Yui Solo (B)
         
 </details>
 
-- 📫 How to reach me: 
-
-LinkedIn: <a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> 
-
-Pub.dev: <a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
-
+📫 How to reach me 
+<a href="http://linkedin.com/in/adriankohls/"><img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png"></img></a> 
+<a href="https://pub.dev/publishers/adriankohls.app/packages"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" width="24"></img></a> 
+<a href="https://instagram.com/kohlsadrian"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" width="24"></img></a> 
  
 - 🔭 I’m currently working on [Flutter2, Flutter packages and Native Kotlin\Java and Swift\Objective-C]
 - 🌱 I’m currently learning [GoLang, NodeJS]
