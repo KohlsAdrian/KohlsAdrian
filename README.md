@@ -1,16 +1,10 @@
 ### Sup' Comrade 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
+
 K On!! Yui Solo (B)
 
-[![](https://media.tenor.com/vP5odSttpokAAAAC/k-on-guitar.gif)](https://www.youtube.com/watch?v=qJ3x0JOkFhk)
-
-<img src="https://i.pinimg.com/originals/67/b4/cb/67b4cbd3db57174b782974da68aaa4b0.gif">
-
-<details> <summary> Coding stats </summary>
-        <table> 
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
-        </table>
-</details>
+[![](https://media.tenor.com/vP5odSttpokAAAAC/k-on-guitar.gif)](https://www.youtube.com/watch?v=qJ3x0JOkFhk) <img src="https://i.pinimg.com/originals/67/b4/cb/67b4cbd3db57174b782974da68aaa4b0.gif"  width="435px">
 
 <details> 
         <summary> Setup: </summary>
