@@ -4,7 +4,8 @@
 
 K On!! Yui Solo (B)
 
-[![](https://media.tenor.com/vP5odSttpokAAAAC/k-on-guitar.gif)](https://www.youtube.com/watch?v=qJ3x0JOkFhk) <img src="https://i.pinimg.com/originals/67/b4/cb/67b4cbd3db57174b782974da68aaa4b0.gif"  height="244px">
+<img src="https://media.tenor.com/vP5odSttpokAAAAC/k-on-guitar.gif" height="122px">[![]()](https://www.youtube.com/watch?v=qJ3x0JOkFhk)</img>
+<img src="https://i.pinimg.com/originals/67/b4/cb/67b4cbd3db57174b782974da68aaa4b0.gif" height="122px">
 
 <details> 
         <summary> Setup: </summary>
