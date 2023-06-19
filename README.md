@@ -2,7 +2,7 @@
 
 K On!! Yui Solo (B)
 
-[![](https://img.youtube.com/vi/qJ3x0JOkFhk/0.jpg)](https://www.youtube.com/watch?v=qJ3x0JOkFhk)
+[![](https://media.tenor.com/vP5odSttpokAAAAC/k-on-guitar.gif)](https://www.youtube.com/watch?v=qJ3x0JOkFhk)
 
 <img src="https://i.pinimg.com/originals/67/b4/cb/67b4cbd3db57174b782974da68aaa4b0.gif">
 
@@ -12,27 +12,20 @@ K On!! Yui Solo (B)
         </table>
 </details>
 
-<details> <summary> Setup: </summary>
-        Mac Mini 2020: 
-                (512GB/16GB) - Apple M1 - Latest Stable OS
+<details> 
+        <summary> Setup: </summary>
         
-        MacBook Pro 2020: 
-                (1TB/16GB) - Core i5 - Latest Stable OS
+        MacBook Pro 2021: 
+                (512GB/16GB) - M1 PRO - Latest Stable OS
 
         iPhone 13:
                 (128GB) - Latest Stable OS
-        
-        Xiaomi Redmi 10:
-                (128GB) Latest Stable OS
 
         iPad Pro 2021: 
                 120Hz - (128GB/8GB) - M1 - Latest Stable OS
 
         Samsung 34":
                 165hz - DisplayPort - (3440x1440)
-        
-        ASUS 24":
-                144hz - HDMI - (1920x1080)
         
         Mouse:
                 HyperX - PULSEFIRE DART
@@ -45,7 +38,8 @@ K On!! Yui Solo (B)
         
 </details>
 
-<details> <summary> Environment: </summary>
+<details> 
+        <summary> Environment: </summary>
         
        VSCode: 
                 Latest Stable
