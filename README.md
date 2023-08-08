@@ -1,7 +1,5 @@
 ### Sup' Comrade 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohlsAdrian&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="400px">
-
 K On!! Yui Solo (B)
 
 <img src="https://media.tenor.com/vP5odSttpokAAAAC/k-on-guitar.gif" height="122px">[![]()](https://www.youtube.com/watch?v=qJ3x0JOkFhk)</img>
